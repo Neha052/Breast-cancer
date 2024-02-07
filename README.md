@@ -1,7 +1,7 @@
 # Overview
 This repository contains a dataset related to breast cancer, curated for research and analysis purposes. The dataset encompasses various attributes and features associated with breast cancer cases, aiming to facilitate exploration, modeling, and insights into this critical medical domain.
 
-![Classify Benign and Malignant cancer](Cancer.png)
+![Classify Benign and Malignant cancer](Dataset/Cancer.png)
 #### Dataset Description
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
