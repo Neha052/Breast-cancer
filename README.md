@@ -42,6 +42,7 @@ Notebook content:
 
 #### Citation
 UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+Image credits: https://www.verywellhealth.com/what-does-malignant-and-benign-mean-514240
 
 #### License
 CC BY-NC-SA 4.0
